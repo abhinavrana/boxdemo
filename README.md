@@ -14,8 +14,10 @@ Setup
 4. Run `npm start` to run the webpack dev server.
 5. Navigate to http://localhost:8080.
 
-** Other important points :**
+**Other important points :**
 1. If you are running on local add your local url to your custom app on https://app.box.com/developers/console
+![Image of Box App Admin](https://github.com/abhinavrana/boxdemo/blob/master/screenshot-app.box.com-2020.04.26-00_21_09.png?raw=true)
+
 
 
 **Note: The above instruction steps assume webpack dev server is running on port 8080. If it runs on another port, you will have use that instead in the instructions above.**
